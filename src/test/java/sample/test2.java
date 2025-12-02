@@ -7,7 +7,7 @@ public class test2 {
 		String name= "sample";
 		
 		if(name=="sample") {
-			System.out.println("project is successful");
+			System.out.println("project is Successful");
 		} else {
 			System.out.println("project is not successful");
 		}
